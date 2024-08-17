@@ -12,7 +12,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 
 
-model = load_model("D:/projects/Neuronime/dist/saved_model/saved_model.pb")
+model = load_model("")
 
 
 def check_dir(directory):
